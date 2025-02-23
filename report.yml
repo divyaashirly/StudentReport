@@ -3,7 +3,7 @@ age: 30
 city: New York
 is_student: true
 grade:
-  - subject: Matgit branch h
+  - subject: Math
     grade: Y
   - subject: English
     grade: Y
